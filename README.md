@@ -19,6 +19,7 @@
 <img src='https://media.licdn.com/dms/image/C5622AQHn6rxyZLqAew/feedshare-shrink_800/0/1663157717187?e=2147483647&v=beta&t=WHe3mwb-4uWHoAR5ELZB4oy2kYYR-3CcVBUOVX5TUkQ' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sparshgupta121&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sparshgupta121&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
