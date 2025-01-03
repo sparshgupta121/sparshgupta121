@@ -56,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparshgupta121&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgupta121&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sparshgupta121&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgupta121&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshgupta121&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshgupta121&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🤝 Let's Collaborate!
