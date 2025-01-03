@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparshgupta121&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgupta121&theme=tokyonight" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgupta121&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
