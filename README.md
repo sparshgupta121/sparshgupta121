@@ -9,7 +9,7 @@
 ## 🚀 Quick Overview
 
 - 🎓 Studying Computer Science Engineering at Chandigarh University
-- 💻 Web Developer with a passion for creating intuitive user experiences
+- 💻 Web Developer with a passion for creating Interactive user experiences
 - 🏆 Hackathon Enthusiast always ready for a coding challenge
 - 🌱 Constantly learning and exploring new technologies
 
